@@ -1,0 +1,2 @@
+# gpt2_xl_from_scratch
+Transformer built from raw Pytorch + DDP, optimizer sharding + data pipelines + SFT/GRPO post-training
